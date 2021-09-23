@@ -11,7 +11,7 @@ And close browsers
 Examples:
 |username			|password	|
 |test99@gmail.com	|123456		|
-|test123@gmail.com	|12345      |
+|test123@gmail.com	|1234578    |
 
 
 
