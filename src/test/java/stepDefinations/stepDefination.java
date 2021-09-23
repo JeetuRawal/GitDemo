@@ -16,6 +16,8 @@ public class stepDefination extends base {
 	public void initialize_the_browser_with_chrome() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		 driver =initializeDriver();
+		//122121121212
+		
 	}
 
 	@Given("^Navigate to \"([^\"]*)\" Site$")
